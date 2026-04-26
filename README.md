@@ -48,7 +48,7 @@ In these projects, I follow a rigorous BI workflow:
 
 ## 🚀 How to Access
 1.  **Clone the Repo:**
-    git clone [https://github.com/Nitesh8750/Power_BI_Projects.git](https://github.com/Nitesh8750/Power_BI_Projects.git)
+    [https://github.com/Nitesh8750/Power_BI_Projects.git](https://github.com/Nitesh8750/Power_BI_Projects.git)
 2.  **Software:** Ensure you have the latest version of [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/) installed.
 3.  **Open:** Launch any `.pbix` file to interact with the full dashboard, filters, and tooltips.
 
