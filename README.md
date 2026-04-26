@@ -48,9 +48,7 @@ In these projects, I follow a rigorous BI workflow:
 
 ## 🚀 How to Access
 1.  **Clone the Repo:**
-    ```bash
     git clone [https://github.com/Nitesh8750/Power_BI_Projects.git](https://github.com/Nitesh8750/Power_BI_Projects.git)
-    ```
 2.  **Software:** Ensure you have the latest version of [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/) installed.
 3.  **Open:** Launch any `.pbix` file to interact with the full dashboard, filters, and tooltips.
 
@@ -66,9 +64,3 @@ In these projects, I follow a rigorous BI workflow:
 
 ---
 *“Visualizing the future, one data point at a time.”* 📈✨
-
-### Key Improvements Made:
-1.  **Technical Vocabulary:** Replaced general terms with industry-specific ones like "MoM growth," "Time Intelligence," "Pareto analysis," and "Star Schema."
-2.  **Workflow Section:** Added a "Data Engineering in Power BI" section to show you understand the backend work (Power Query/Modeling), not just the "pretty charts."
-3.  **Highlights:** Added a "Technical Highlight" for each project to tell the recruiter exactly what difficult skill you used.
-4.  **Modern Layout:** Used emojis and clean dividers to make it look like a high-end portfolio.
