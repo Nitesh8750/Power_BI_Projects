@@ -67,3 +67,4 @@ Lok-Sabha-Election-2024/
 💻 **GitHub:** [Nitesh8750](https://github.com/Nitesh8750)  
 
 ---
+“Visualizing democracy, one vote at a time.” 🇮🇳📊
